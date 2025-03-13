@@ -1,0 +1,10 @@
+import turtle
+turtle.fillcolor("yellow")
+turtle.shape("turtle")
+turtle.begin_fill()
+turtle.forward(120)
+turtle.left(120)
+turtle.forward(120)
+turtle.left(120)
+turtle.forward(120)
+turtle.end_fill()
